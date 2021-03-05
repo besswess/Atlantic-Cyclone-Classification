@@ -1,6 +1,6 @@
 # Atlantic-Cyclone-Classification
 
-This project uses Atlantic Cyclones information to predict Cyclone types, I evaludated 3 models, KNN, Deciscion Tree and Random Forest to see which model is most suitable for my purpose. 
+This project uses Atlantic Cyclones information to predict Cyclone types, I trained and evaludated 3 models, KNN, Deciscion Tree and Random Forest to see which model is most suitable for my purpose. 
 
 ## Context
 
